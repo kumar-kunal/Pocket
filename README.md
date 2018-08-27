@@ -1,2 +1,2 @@
-# pocket
+# Pocket
 An online wallet to keep track of your transaction
